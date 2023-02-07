@@ -1,3 +1,5 @@
+import "./htmlInputElm.js";
+
 // let literally = 10;
 // let number: number;
 // let str: string;

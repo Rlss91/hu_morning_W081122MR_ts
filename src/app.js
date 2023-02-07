@@ -1,3 +1,4 @@
+import "./htmlInputElm.js";
 var UserType;
 (function (UserType) {
     UserType[UserType["NORMAL"] = 1] = "NORMAL";
@@ -12,4 +13,3 @@ const callF1 = (functionAsParam) => {
 };
 callF1(f1);
 callF1(f2);
-export {};
